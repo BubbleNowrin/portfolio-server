@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Bibliophile",
+        "id": "1",
+        "title": "Bibliophile is a online book resale platform. Buy can buy new or old books, Seller can sell the books.",
+        "thumbnail": "https://i.ibb.co/C75kP26/bibliophile.png",
+        "image1": "https://i.ibb.co/NZdYXKt/bibliophile-28720-web-app-home.png",
+        "image2": "https://i.ibb.co/s28Gy2m/bibliophile-28720-web-app-home-1.png",
+        "image3": "https://i.ibb.co/wC84tJQ/dash.png",
+        "features": {
+            "one": "This website is user-friendly and easy to use.",
+            "two": "It has separate login and registration page. User can login with their social accounts such as google. Besides,they can sign up and login manually with their email and password. User can choose if he/she want to signup as a buyer or seller.",
+            "three": "The Home page consistes of few sections. it hase category section, where a user can look for category specific books.",
+            "four": "There is a advertisement section where a buyer can see which books are advertised and available to buy.",
+            "five": "In the details page buyer can see the details of the book. the original price,resale price,pickup location etc.",
+            "six": "Buyer can book and finally pay for the books using card payment system.Sellers can add books to sell, view their added books, delete their product and advertise them. Admin can handle everything. they can verify authentic sellers. They can delete reported items and also do some administrative tasks.",
+            "seven": "The Blog section provides some questions and answers of them."
+        },
+        "gitClient": "https://github.com/BubbleNowrin/Bibliophile-client",
+        "gitServer": "https://github.com/BubbleNowrin/bibliophile-server",
+        "liveSite": "https://bibliophile-28720.web.app/"
+    },
+    {
+        "name": "Foodaholic",
+        "id": "2",
+        "thumbnail": "https://i.ibb.co/p6HJhyL/foodaholic.png",
+        "title": "Foodaholic is a online-based kitchen. It has variety of dishes and cuisines.",
+        "image1": "https://i.ibb.co/0ZsCwXL/cloud-kitchen-4e246-web-app-1.png",
+        "image2": "https://i.ibb.co/98SNLNT/cloud-kitchen-4e246-web-app-services.png",
+        "image3": "https://i.ibb.co/BskZbDg/cloud-kitchen-4e246-web-app-services-636a57614885c74028317984-1.png",
+        "features": {
+            "one": "This website is user-friendly and easy to use.",
+            "two": "It has separate login and registration page. User can login with their social accounts such as google. Besides,they can sign up and login manually with their email and password.",
+            "three": "The Home page shows few services,how the team works,bio of the chef and some sections for getting offers and subscribe to the newsletter.",
+            "four": "The Services page offers the services informations. It redirects to the service details page to know more about the service. There are reviews from different customers ass well.The user can add review there too but user must be logged in.",
+            "five": "In the My Reviews page the user can show the reviews they have added.they can edit and update the review also.",
+            "six": "In the add services page, users can add services.",
+            "seven": "The Blog section provides some questions and answers of them."
+        },
+        "gitClient": "https://github.com/BubbleNowrin/Cloud-Kitchen",
+        "gitServer": "https://github.com/BubbleNowrin/cloud-kitchen-server",
+        "liveSite": "https://cloud-kitchen-4e246.web.app/"
+    },
+    {
+        "name": "Code Academy",
+        "id": "3",
+        "title": "Code Academy is a Online Learning Platform for learning programming languages online. ",
+        "thumbnail": "https://i.ibb.co/q0QQvRb/codeacademy.png",
+        "image1": "https://i.ibb.co/xJJRVDV/code-academy-client-web-app.png",
+        "image2": "https://i.ibb.co/tBsq6Fy/code-academy-client-web-app-courses.png",
+        "image3": "https://i.ibb.co/pXDzf7M/code-academy-client-web-app-2.png",
+        "features": {
+            "one": "This website is user-friendly and easy to use.",
+            "two": "Toggle Theme: The website theme can be toggled between light and retro.",
+            "three": "It has separate login and registration page. User can login with their social accounts such as google or github. Besides,they can sign up and login manually with their email and password.",
+            "four": "The Home page shows the reviews of the alumni and stats about the learning platform.",
+            "five": "The Courses page offers the courses informations. It redirects to the course details page to learn more about the course. If the user want enroll they can easily checkout.",
+            "six": "The FAQ page provides the Frequently asked questions of the users.",
+            "seven": "The Blog section provides some questions and answers of them."
+        },
+        "gitClient": "https://github.com/BubbleNowrin/Code-Academy",
+        "gitServer": "https://github.com/BubbleNowrin/code-academy-server",
+        "liveSite": "https://code-academy-client.web.app/"
+    }
+]
